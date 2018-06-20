@@ -1,7 +1,4 @@
-
-# silentReverseProxy
-
-#hideNsneak
+# hideNsneak
 
 This application assists in managing attack infrasturcture by providing an interface to rapidly deploy, manage, and take down various cloud services. These include VMs, domain fronting, Cobalt Strike servers, API gateways, and firewalls. 
 
@@ -17,7 +14,3 @@ This application assists in managing attack infrasturcture by providing an inter
 fill in the values in config.yaml with API keys, file paths, etc (see below for more info)
 
 set up your ssh key in your config.yaml file with all cloud provider you'd like to use (AWS, Google, Digital Ocean)
-
-#commands
-
-add here from main.go case statements
