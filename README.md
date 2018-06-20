@@ -1,5 +1,8 @@
 # hideNsneak
 
+## Disclosure: This tool is still in beta so use at your own risk. Full version will be released around Blackhat this year
+
+
 This application assists in managing attack infrasturcture by providing an interface to rapidly deploy, manage, and take down various cloud services. These include VMs, domain fronting, Cobalt Strike servers, API gateways, and firewalls. 
 
 #running locally
